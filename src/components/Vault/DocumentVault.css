@@ -1,0 +1,17 @@
+.vault-editable-content, .vault-editable-content * {
+  line-height: 1.6 !important;
+  font-family: 'Times New Roman', serif !important;
+  font-size: 14px !important;
+}
+
+.vault-editable-content p, .vault-editable-content div {
+  margin: 0;
+  padding: 0;
+}
+
+/* Redaction highlighting styles */
+.highlight {
+  background-color: rgba(62, 35, 193, 0.2);
+  padding: 2px 4px;
+  border-radius: 3px;
+} 
